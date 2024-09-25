@@ -4,18 +4,19 @@ An editor for [Aristurtle Particle Engine](https://github.com/AristurtleDev/aris
 Current Version 0.0.1
 
 ## Usage
-Check [Releases]() page for newest released and download the archive for your operating system.
+Check [Releases](https://github.com/AristurtleDev/aristurtle-particleengine-editor/releases/tag/v0.0.1) page for newest released and download the archive for your operating system.
 
 - Windows
-  - Download `Aristurtle.ParticleEngine.Editor-version-win-x64.zip`
+  - Download [`Aristurtle.ParticleEngine.Editor-0.0.1-win-x64.zip`](https://github.com/AristurtleDev/aristurtle-particleengine-editor/releases/download/v0.0.1/Aristurtle.ParticleEngine.Editor-0.0.1-win-x64.zip)
   - Extract contents of zip file
   - Run `Aristurtle.ParticleEngine.Editor.exe`
 - MacOS
-  - Download `Aristurtle.ParticleEngine.Editor-version-osx-x64.app`
+  - Download [`Aristurtle.ParticleEngine.Editor-0.0.1-osx-x64.zip`](https://github.com/AristurtleDev/aristurtle-particleengine-editor/releases/download/v0.0.1/Arisurtle.ParticleEngine.Editor-0.0.1-osx-64.app.zip)
+  - Extract the app from the zip file
   - Run the app
 - Linux
-  - Download `Aristurtle.ParticleEngine.Editor-version-linux-x64.tar.gz`
-  - Extract the contents fo the archive
+  - Download [`Aristurtle.ParticleEngine.Editor-0.0.1-linux-x64.tar.gz`](https://github.com/AristurtleDev/aristurtle-particleengine-editor/releases/download/v0.0.1/Aristurtle.ParticleEngine.Editor.0.0.1-linux-x64.tar.gz)
+  - Extract the contents of the archive
   - Run `Aristurtle.ParticleEngine.Editor`
 
 
