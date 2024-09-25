@@ -8,6 +8,7 @@ Check [Releases](https://github.com/AristurtleDev/aristurtle-particleengine-edit
 
 - Windows
   - Download [`Aristurtle.ParticleEngine.Editor-0.0.1-win-x64.zip`](https://github.com/AristurtleDev/aristurtle-particleengine-editor/releases/download/v0.0.1/Aristurtle.ParticleEngine.Editor-0.0.1-win-x64.zip)
+  - Right-Click the downloaded zip file, select Properties, and click the **Unblock** button if it shows the contents are blocked (blessed Windows)
   - Extract contents of zip file
   - Run `Aristurtle.ParticleEngine.Editor.exe`
 - MacOS
